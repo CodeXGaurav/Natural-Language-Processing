@@ -1,4 +1,5 @@
 # Natural-Language-Processing
+
 ### It is not a magic??
 #### Let's try to understand.
 
@@ -7,6 +8,7 @@ The concepts is that computers have understanding of Machine level code which ar
 </p>
 
 ### Getting Started
+
 
 
 ### Prerequisites
