@@ -22,7 +22,7 @@ Basic understanding of Python3 is must. Understanding of basic Machine Learning 
 5. [NLTK](https://www.nltk.org/)
 
 
-### Understanding the Pre-processing of text data
+### Preprocessing
 
 
 
